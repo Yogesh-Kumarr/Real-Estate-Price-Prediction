@@ -1,3 +1,3 @@
 # Real-Estate-Price-Prediction
 Explored the housing dataset from Kaggle to predict Sales
-Prices of housing using regression techniques
+Prices of houses using regression techniques.
